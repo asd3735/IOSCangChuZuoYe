@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IOSCangChuZuoYe.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1CFA7AE70C645280964DCA07A409833648A78D25</string>
+				<key>dateExpires</key>
+				<string>2021/6/24</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1CFA7AE70C645280964DCA07A409833648A78D25</string>
+						<key>dateExpires</key>
+						<string>2021/6/24</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AFNetworking.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NQN5LU3YEK</string>
+						<key>name</key>
+						<string>Hangzhou Jinxin Drugstore Chain Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1CFA7AE70C645280964DCA07A409833648A78D25</string>
+						<key>dateExpires</key>
+						<string>2021/6/24</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MJRefresh.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NQN5LU3YEK</string>
+						<key>name</key>
+						<string>Hangzhou Jinxin Drugstore Chain Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1CFA7AE70C645280964DCA07A409833648A78D25</string>
+						<key>dateExpires</key>
+						<string>2021/6/24</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>XMLDictionary.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NQN5LU3YEK</string>
+						<key>name</key>
+						<string>Hangzhou Jinxin Drugstore Chain Co., Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NQN5LU3YEK.com.jxyd.IOSCangChuZuoYe</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NQN5LU3YEK</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>NQN5LU3YEK.com.jxyd.IOSCangChuZuoYe</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>IOSCangChuZuoYe.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>360ac033-c8ae-4f7a-9e85-ec3bcec91e3c</string>
+				<key>name</key>
+				<string>CangChuZuoYe</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NQN5LU3YEK</string>
+				<key>name</key>
+				<string>Hangzhou Jinxin Drugstore Chain Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

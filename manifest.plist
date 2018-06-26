@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.181.88:8081/app.ipa</string>
+					<string>https://github.com/asd3735/IOSCangChuZuoYe/raw/master/IOSCangChuZuoYe.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://192.168.181.88:8081/57.ipa</string>
+					<string>https://github.com/asd3735/IOSCangChuZuoYe/raw/master/tubiao_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://192.168.181.88:8081/512.ipa</string>
+					<string>https://github.com/asd3735/IOSCangChuZuoYe/raw/master/tubiao_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
